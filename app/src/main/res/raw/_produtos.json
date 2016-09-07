@@ -1,0 +1,202 @@
+[
+{
+	"produto_id"  	: "hbg01",
+	"nome"          : "BIG Mary",
+	"descricao"     : "O grande clássico do Mary's. Este sanduíche irresistível vem com duas carnes, queijo, alface temperada com cebola picadinha em um pão duplo com gergelim, além do molho Big Mary que só o Mary's tem.",
+	"preco"         : 15.50,
+	"qrcode"        : "",
+	"foto"          : ""
+},
+{
+	"produto_id"  	: "hbg02",
+	"nome"          : "BIG Mary PICANHA M",
+	"descricao"     : "O clássico do Mary's ainda mais irresistível! Dois hambúrgueres sabor picanha, queijo, alface temperada, com cebola picadinha e o delicioso molho Big Mary.",
+	"preco"         : 17.50,
+	"qrcode"        : "",
+	"foto"          : ""
+},
+{
+	"produto_id"  	: "hbg03",
+	"nome"          : "Mary's PICANHA CHEDDAR BACON M",
+	"descricao"     : "Dois hambúrgueres sabor picanha, queijo cheddar cremoso, bacon em tiras, cebola com shoyu num pão de centeio. Peça já esta delícia.",
+	"preco"         : 19.50,
+	"qrcode"        : "",
+	"foto"          : ""
+},
+{
+	"produto_id"  : "hbg04",
+	"nome"          : "GRAN PICANHA M",
+	"descricao"     : "Não importa o tamanho da fome, ninguém vai conseguir se controlar com esse sanduíche. Dois hambúrgueres sabor picanha, queijo, salada, pão australiano, cebola crispy bem crocante e um extraordinário molho chimichurri.",
+	"preco"         : 12.50,
+	"qrcode"        : "",
+	"foto"          : ""
+},
+{
+	"produto_id"  	: "hbg05",
+	"nome"          : "Mary's PICANHA CHEDDAR BACON PICANTE M",
+	"descricao"     : "Dois hambúrgueres sabor picanha, queijo cheddar cremoso picante, bacon em tiras, cebola com shoyu num pão de centeio. Peça já esta delícia.",
+	"preco"         : 15.50,
+	"qrcode"        : "",
+	"foto"          : ""
+},
+{
+	"produto_id"  	: "hbg06",
+	"nome"          : "GRAN PICANHA P",
+	"descricao"     : "Não importa o tamanho da fome, ninguém vai conseguir se controlar com esse sanduíche. Hambúrguer sabor picanha, queijo, salada, pão australiano, cebola crispy bem crocante e um extraordinário molho chimichurri.",
+	"preco"         : 13.50,
+	"qrcode"        : "",
+	"foto"          : ""
+},
+{
+	"produto_id"  	: "hbg07",
+	"nome"          : "PICANHA GOURMET M",
+	"descricao"     : "Esse é grande até no sabor. Um delicioso molho Gourmet, alface, tomate, cebola roxa, queijo e dois, não um, mas dois hambúrgueres sabor picanha. Ficou com água na boca? Bem, essa era a intenção.",
+	"preco"         : 22.50,
+	"qrcode"        : "",
+	"foto"          : ""
+},
+{
+	"produto_id"  : "hbg08",
+	"nome"          : "PICANHA GOURMET P",
+	"descricao"     : "Com um delicioso molho Gourmet, alface, tomate, cebola roxa, queijo e um hambúrguer sabor picanha, esse é o sabor que vai deixar até os mais exigentes sem palavras.",
+	"preco"         : 18.50,
+	"qrcode"        : "",
+	"foto"          : ""
+},
+{
+	"produto_id"  	: "hbg09",
+	"nome"          : "PICANHA BARBECUE M",
+	"descricao"     : "Este sanduíche vai desafiar você. Dois suculentos hambúrgueres sabor picanha, fatias generosas de queijo cheddar, salada na medida e o clássico molho Barbecue. E aí, vai encarar?",
+	"preco"         : 16.50,
+	"qrcode"        : "",
+	"foto"          : ""
+},
+{
+	"produto_id"  	: "hbg10",
+	"nome"          : "PICANHA BARBECUE P",
+	"descricao"     : "Suculento hambúrguer sabor picanha, fatia de queijo cheddar e salada na medida. Tudo isso acompanhado de um irresistível molho Barbecue.",
+	"preco"         : 15.50,
+	"qrcode"        : "",
+	"foto"          : ""
+},
+{
+	"produto_id"  	: "hbg11",
+	"nome"          : "DOUBLE CHEDDAR",
+	"descricao"     : "Se você adora cheddar, vai querer devorar este sanduíche. Dois hambúrgueres suculentos acompanhados de muito queijo cheddar cremoso e cebolas crocantes refogadas com molho shoyo.",
+	"preco"         : 20.50,
+	"qrcode"        : "",
+	"foto"          : ""
+},
+{
+	"produto_id"  	: "hbg12",
+	"nome"          : "DOUBLE CHEESEBURGER",
+	"descricao"     : "Dois hambúrgueres de carne e duas fatias de queijo. Tudo isso em um pão sensacional. Irresistível!",
+	"preco"         : 21.50,
+	"qrcode"        : "",
+	"foto"          : ""
+},
+{
+	"produto_id"  	: "hbg13",
+	"nome"          : "Mary’s CRISPY",
+	"descricao"     : "Esse frango empanado bem crocante com queijo, bacon, salada e molho ranch na medida deixa qualquer sanduíche ainda mais irresistível.",
+	"preco"         : 18.50,
+	"qrcode"        : "",
+	"foto"          : ""
+},
+{
+	"produto_id"  	: "hbg14",
+	"nome"          : "Mary's FRANFILÉ",
+	"descricao"     : "A leveza do clássico agora com muito mais sabor. Carne de frango com salada tropical, queijo prato e um delicioso molho ranch. Tudo isso no incomparável pão sweet honey.",
+	"preco"         : 17.50,
+	"qrcode"        : "",
+	"foto"          : ""
+},
+{
+	"produto_id"  	: "hbg15",
+	"nome"          : "Mary’s BURGER",
+	"descricao"     : "Suculento hambúrguer de carne, molho saucée e salada de alface e tomate em um pão bem macio. Este sanduíche é mais um clássico do Mary’s.",
+	"preco"         : 14.50,
+	"qrcode"        : "",
+	"foto"          : ""
+},
+{
+	"produto_id"  	: "hbg16",
+	"nome"          : "CHEESEBURGER",
+	"descricao"     : "Pra matar sua fome rapidinho. Suculento hambúrguer de carne e uma fatia de queijo em um pão macio.",
+	"preco"         : 15.50,
+	"qrcode"        : "",
+	"foto"          : ""
+},
+{
+	"produto_id"  : "hbg17",
+	"nome"          : "BARBECUE BACON",
+	"descricao"     : "Delicioso hambúrguer de carne com irresistível molho barbecue, bacon crocante, queijo e alface.",
+	"preco"         : 12.50,
+	"qrcode"        : "",
+	"foto"          : ""
+},
+{
+	"produto_id"  	: "hbg18",
+	"nome"          : "TRIPLO BARBECUE",
+	"descricao"     : "Três suculentos hambúrgueres de carne com delicioso molho barbecue, queijo e alface. Vai resistir?",
+	"preco"         : 19.50,
+	"qrcode"        : "",
+	"foto"          : ""
+},
+{
+	"produto_id"  	: "ssa19",
+	"nome"          : "SALADA DE FRANGO",
+	"descricao"     : "Sanduíche de pasta de frango cremosa, tomate e salada no pão de forma tostado é uma opção leve e gostosa pra você.",
+	"preco"         : 21.50,
+	"qrcode"        : "",
+	"foto"          : ""
+},
+{
+	"produto_id"  	: "ssa20",
+	"nome"          : "SALADA DE ATUM",
+	"descricao"     : "Está querendo uma pedida mais leve? Escolha esse sanduíche com pasta de atum, tomate e salada no pão de forma tostado.",
+	"preco"         : 15.50,
+	"qrcode"        : "",
+	"foto"          : ""
+},
+{
+	"produto_id"  	: "sld21",
+	"nome"          : "SALADA CAESAR",
+	"descricao"     : "Alface americana, raspas de queijo parmesão, croutons e molho caesar fazem dessa salada uma gostosa pedida",
+	"preco"         : 10.50,
+	"qrcode"        : "",
+	"foto"          : ""
+},
+{
+	"produto_id"  	: "sld22",
+	"nome"          : "SALADA TROPICAL",
+	"descricao"     : "Uma salada leve e gostosa, ideal pra abrir seu apetite ou lhe ajudar a dar uma enganada na fome.",
+	"preco"         : 10.50,
+	"qrcode"        : "",
+	"foto"          : ""
+},
+{
+	"produto_id"  	: "sbm23",
+	"nome"          : "SUNDAE CHOCOLATE",
+	"descricao"     : "",
+	"preco"         : 5.50,
+	"qrcode"        : "",
+	"foto"          : ""
+},
+{
+	"produto_id"  	: "sbm24",
+	"nome"          : "SUNDAE CARAMELO",
+	"descricao"     : "",
+	"preco"         : 5.50,
+	"qrcode"        : "",
+	"foto"          : ""
+},
+{
+	"produto_id"  	: "sbm25",
+	"nome"          : "SUNDAE MORANGO",
+	"descricao"     : "",
+	"preco"         : 5.50,
+	"qrcode"        : "",
+	"foto"          : ""
+}
+]
