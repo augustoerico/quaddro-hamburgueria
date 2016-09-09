@@ -8,6 +8,7 @@ import android.widget.ListView;
 
 import java.util.List;
 
+import br.com.erico.hamburgueria.adapters.ProdutoAdapter;
 import br.com.erico.hamburgueria.controllers.HamburgueriaController;
 import br.com.erico.hamburgueria.models.Produto;
 import retrofit2.Call;
@@ -33,11 +34,7 @@ public class MainActivity extends AppCompatActivity {
             public void onResponse(Call<List<Produto>> call, Response<List<Produto>> response) {
                 if (response.isSuccessful()) {
                     List<Produto> produtos = response.body();
-                    for (Produto p : produtos) {
-                        Log.i("MainActivity", p.getNome());
-                    }
-                    adapter = new ArrayAdapter<Produto>(
-                            MainActivity.this, android.R.layout.simple_list_item_1, produtos);
+                    adapter = new ProdutoAdapter(MainActivity.this, produtos);
                     lsvProdutos.setAdapter(adapter);
                 }
             }

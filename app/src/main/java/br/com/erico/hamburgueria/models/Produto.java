@@ -1,5 +1,7 @@
 package br.com.erico.hamburgueria.models;
 
+import android.content.Context;
+
 /**
  * Created by erico on 9/8/16.
  */
@@ -67,5 +69,9 @@ public class Produto {
 
     public void setFoto(String foto) {
         this.foto = foto;
+    }
+
+    public int getImage(Context context) {
+        return context.getResources().getIdentifier(produto_id, "drawable", context.getPackageName());
     }
 }
